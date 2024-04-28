@@ -47,3 +47,5 @@ https://moderncanteen.000webhostapp.com/
 ## Orders
 
 ![App Screenshot](https://raw.githubusercontent.com/dhananjaykuber/canteen-app-php/main/assets/3%20-%20Dashboard.png)
+
+##### by [@Pruthviraj Auti](https://portfoliobuilderpruthvi.vercel.app/pruthvii)
