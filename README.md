@@ -8,7 +8,7 @@ PHP, MySQL, JavaScript, HTML, CSS
 
 ## Deployment
 
-https://moderncanteen.000webhostapp.com/
+https://auti-pruthviraj.000webhostapp.com/
 
 # Screenshots
 
